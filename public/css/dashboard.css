@@ -1,0 +1,29 @@
+body, .btn{
+    background-color: #44749D;
+    color: #fff;    
+}
+
+.card{
+    color: #44749D;
+    border-radius: 0;
+}
+
+.navbar{
+    /*background-color: #44749D;*/
+    /*color: #fff;*/
+    border-bottom: #fff 1px solid;
+}
+
+.navbar-left{
+    /*background-color: #44749D;*/
+    /*color: #fff;*/
+    border-right: #fff 1px solid;
+    border-bottom: #fff 1px solid;
+}
+
+a{
+    color: #fff;
+}
+.dropdown-menu{
+    border-radius: 0;
+}
